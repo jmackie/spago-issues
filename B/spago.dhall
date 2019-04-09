@@ -1,5 +1,5 @@
 { name =
-    "B"
+    "b-lib"
 , dependencies =
     [ "effect", "console" ]
 , packages =
