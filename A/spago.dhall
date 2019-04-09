@@ -3,5 +3,5 @@
 , dependencies =
     [ "effect", "console" ]
 , packages =
-    ./packages.dhall
+    ./../packages.dhall
 }
